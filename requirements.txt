@@ -1,4 +1,5 @@
 gunicorn
+nltk
 streamlit 
 pandas
 scikit-learn
