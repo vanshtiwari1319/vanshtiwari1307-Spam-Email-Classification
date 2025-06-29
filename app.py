@@ -30,17 +30,7 @@ st.title("Email/SMS Spam Classifier")
 
 st.markdown( 
     """
-    <style>
-    .stApp {
-        background-image: url("https://griddb-pro.azureedge.net/en/wp-content/uploads/2021/11/email-spam.png");
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-    }
-    @media only screen and (max-Width: 550px){
-    .stApp{
-        color: white !important; 
-    }
+   <style>
     textarea {
         background-color: #383536 !important;  
         color: white !important;            
@@ -49,7 +39,7 @@ st.markdown(
         color: black !important;  
     }
     </style>
-""", unsafe_allow_html=True)
+    """, unsafe_allow_html=True)
 
 
 
