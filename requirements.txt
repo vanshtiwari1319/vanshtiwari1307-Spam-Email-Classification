@@ -1,5 +1,3 @@
 streamlit 
-\n
 pandas
-\n
 scikit-learn
