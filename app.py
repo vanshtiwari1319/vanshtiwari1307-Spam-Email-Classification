@@ -37,6 +37,10 @@ st.markdown(
         background-repeat: no-repeat;
         background-attachment: fixed;
     }
+    @media only screen and (max-Width: 550px){
+    .stApp{
+        color: white !important; 
+    }
     textarea {
         background-color: #383536 !important;  
         color: white !important;            
